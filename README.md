@@ -1,2 +1,5 @@
-# pattern_game
-memorize the snake pattern as it grows each level and use WASD/Arrow-keys to play written in SFML using C
+# snake_project
+memorize the snake pattern 
+then use WASD or Arrow keys to play
+
+to play for yourself unzip the game file and run the .exe file
